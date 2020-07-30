@@ -1,0 +1,10 @@
+﻿  map_from_scratch.cpp
+C:\HKP\CODE\C++\Algo\VS\Algo\BIGHW\map_from_scratch\map_from_scratch.cpp(39,20): warning C4018: '<': signed/unsigned mismatch
+C:\HKP\CODE\C++\Algo\VS\Algo\BIGHW\map_from_scratch\map_from_scratch.cpp(230,16): warning C4018: '<': signed/unsigned mismatch
+C:\HKP\CODE\C++\Algo\VS\Algo\BIGHW\map_from_scratch\map_from_scratch.cpp(233,25): warning C4018: '<': signed/unsigned mismatch
+C:\HKP\CODE\C++\Algo\VS\Algo\BIGHW\map_from_scratch\map_from_scratch.cpp(244,20): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+  All 603 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  map_from_scratch.vcxproj -> C:\HKP\CODE\C++\Algo\VS\Algo\BIGHW\Release\map_from_scratch.exe

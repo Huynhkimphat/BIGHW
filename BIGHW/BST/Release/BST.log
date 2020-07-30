@@ -1,0 +1,10 @@
+﻿  BST.cpp
+C:\HKP\CODE\C++\VS\Algo\BIGHW\BST\BST.cpp(202,19): warning C4018: '<': signed/unsigned mismatch
+C:\HKP\CODE\C++\VS\Algo\BIGHW\BST\BST.cpp(205,31): warning C4018: '<': signed/unsigned mismatch
+C:\HKP\CODE\C++\VS\Algo\BIGHW\BST\BST.cpp(216,23): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  Previous IPDB not found, fall back to full compilation.
+C:\HKP\CODE\C++\VS\Algo\BIGHW\BST\BST.cpp(74): warning C4715: 'search': not all control paths return a value
+  All 602 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  BST.vcxproj -> C:\HKP\CODE\C++\VS\Algo\BIGHW\Release\BST.exe

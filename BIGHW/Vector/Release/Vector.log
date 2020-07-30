@@ -1,0 +1,14 @@
+﻿  Vector.cpp
+C:\HKP\CODE\C++\Algo\VS\Algo\BIGHW\Vector\Vector.cpp(93,23): warning C4018: '<': signed/unsigned mismatch
+C:\HKP\CODE\C++\Algo\VS\Algo\BIGHW\Vector\Vector.cpp(95,27): warning C4018: '<': signed/unsigned mismatch
+C:\HKP\CODE\C++\Algo\VS\Algo\BIGHW\Vector\Vector.cpp(139,23): warning C4018: '<': signed/unsigned mismatch
+C:\HKP\CODE\C++\Algo\VS\Algo\BIGHW\Vector\Vector.cpp(141,31): warning C4018: '<': signed/unsigned mismatch
+C:\HKP\CODE\C++\Algo\VS\Algo\BIGHW\Vector\Vector.cpp(153,19): warning C4018: '<': signed/unsigned mismatch
+C:\HKP\CODE\C++\Algo\VS\Algo\BIGHW\Vector\Vector.cpp(156,31): warning C4018: '<': signed/unsigned mismatch
+C:\HKP\CODE\C++\Algo\VS\Algo\BIGHW\Vector\Vector.cpp(167,23): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  648 of 664 functions (97.6%) were compiled, the rest were copied from previous compilation.
+    1 functions were new in current compilation
+    4 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  Vector.vcxproj -> C:\HKP\CODE\C++\Algo\VS\Algo\BIGHW\Release\Vector.exe

@@ -1,0 +1,6 @@
+﻿  BST.cpp
+C:\HKP\CODE\C++\Algo\VS\Algo\BIGHW\BST\BST.cpp(202,19): warning C4018: '<': signed/unsigned mismatch
+C:\HKP\CODE\C++\Algo\VS\Algo\BIGHW\BST\BST.cpp(205,31): warning C4018: '<': signed/unsigned mismatch
+C:\HKP\CODE\C++\Algo\VS\Algo\BIGHW\BST\BST.cpp(216,23): warning C4018: '<': signed/unsigned mismatch
+C:\HKP\CODE\C++\Algo\VS\Algo\BIGHW\BST\BST.cpp(74): warning C4715: 'search': not all control paths return a value
+  BST.vcxproj -> C:\HKP\CODE\C++\Algo\VS\Algo\BIGHW\Debug\BST.exe

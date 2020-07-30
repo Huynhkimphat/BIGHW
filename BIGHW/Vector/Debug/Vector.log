@@ -1,0 +1,9 @@
+﻿  Vector.cpp
+C:\HKP\CODE\C++\Algo\VS\Algo\BIGHW\Vector\Vector.cpp(93,23): warning C4018: '<': signed/unsigned mismatch
+C:\HKP\CODE\C++\Algo\VS\Algo\BIGHW\Vector\Vector.cpp(95,27): warning C4018: '<': signed/unsigned mismatch
+C:\HKP\CODE\C++\Algo\VS\Algo\BIGHW\Vector\Vector.cpp(139,23): warning C4018: '<': signed/unsigned mismatch
+C:\HKP\CODE\C++\Algo\VS\Algo\BIGHW\Vector\Vector.cpp(141,31): warning C4018: '<': signed/unsigned mismatch
+C:\HKP\CODE\C++\Algo\VS\Algo\BIGHW\Vector\Vector.cpp(153,19): warning C4018: '<': signed/unsigned mismatch
+C:\HKP\CODE\C++\Algo\VS\Algo\BIGHW\Vector\Vector.cpp(156,31): warning C4018: '<': signed/unsigned mismatch
+C:\HKP\CODE\C++\Algo\VS\Algo\BIGHW\Vector\Vector.cpp(167,23): warning C4018: '<': signed/unsigned mismatch
+  Vector.vcxproj -> C:\HKP\CODE\C++\Algo\VS\Algo\BIGHW\Debug\Vector.exe
